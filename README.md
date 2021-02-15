@@ -1,3 +1,10 @@
+#gitHub Page
+
+project is published on GitHub pages. The link to the github page created is listed below
+
+https://mihret-t.github.io/Organizations/ 
+
+
 # OrganizationStructureProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
